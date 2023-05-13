@@ -124,7 +124,7 @@ class DataTransformation:
 
             )
 
-            logging.info('Processsor pickle in created and saved')
+            logging.info('Processsor pickle is created and saved')
 
             return(
                 train_arr,
