@@ -36,9 +36,9 @@ Dataset Source Link :
 ### Run Locally
 
 Clone the project
-
-
-
+```
+gh repo clone AnonymousSurya/Diamond_Price_Prediction
+```
 Install dependencies
 
 ```
@@ -47,7 +47,7 @@ Install dependencies
 Training model 
 
 ```
-  python src\pipelines\traning_pipeline.py
+  python src\pipelines\training_pipeline.py
 ```
 
 Start the server
