@@ -23,13 +23,13 @@ Dataset Source Link :
 
 
 ### Task Performed:
-1. Data Cleaning
-2. Data Preprocessing and feature engineering
-3. Exploratory Data Analysis
-4. Model training
-5. Pickelizing model
-6. Creating flask app for model
-7. Deployed it in AWS using CodePipeline & Elastic Beanstalk 
+* Cleaned the data.
+* Executed the Data Preprocessing and Feature engineering.
+* Performed Exploratory Data Analysis.
+* Used LinearRegression, Lasso, Ridge, Elasticnet & DecisionTree Models for training purpose.
+* DecisionTree performed the best with a R2_Score of 0.954
+* Created flask app for model
+* Deployed it in AWS using CodePipeline & Elastic Beanstalk 
 
 
 
@@ -58,4 +58,4 @@ Start the server
 
 
 ### Screenshots of web app
-
+![Screenshot (138)](https://github.com/AnonymousSurya/Diamond_Price_Prediction/assets/76435009/fa4b1755-7f34-4828-98f8-6b7384b0b955)
